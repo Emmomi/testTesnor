@@ -1,0 +1,1 @@
+docker run -it -v ./testTesner:{container name} --name TestTensor -p 8080:8888 tensorflow/tensorflow:latest
