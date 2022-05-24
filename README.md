@@ -1,4 +1,5 @@
 # testTesnor
 
 TensorFlowをいろいろ試す用
-イメージ名:TestTensor
+取り合えずBlenderで何か作らせる
+後は実験なり検証なりする場所としても
